@@ -1,4 +1,4 @@
-ZIM_HOME=~/.zim
+ZIM_HOME=~/.cache/zim
 
 # Download zimfw plugin manager if missing.
 if [[ ! -e ${ZIM_HOME}/zimfw.zsh ]]; then
